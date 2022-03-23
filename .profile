@@ -1,2 +1,2 @@
-export SENDGRID_USERNAME=app254655337@heroku.com
-export SENDGRID_PASSWORD=d21uldx69011
+export SENDGRID_USERNAME=apikey
+export SENDGRID_PASSWORD=entireapikey
