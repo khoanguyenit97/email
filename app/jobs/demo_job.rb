@@ -1,4 +1,5 @@
 class DemoJob < ApplicationJob
+  queue_as :default
   def perform
     puts 'This is demo job.'
   end

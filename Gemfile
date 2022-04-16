@@ -62,3 +62,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'redis'
 gem 'redis-namespace'
 gem 'redis-rails'
+
+gem 'sidekiq'
