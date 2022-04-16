@@ -6,3 +6,7 @@ development:
   :concurrency: 4
 :queues:
   - default
+:schedule:
+  demo_schedule_job:
+    every: 1 year
+    class: DemoScheduleJob

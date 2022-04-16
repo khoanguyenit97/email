@@ -64,3 +64,5 @@ gem 'redis-namespace'
 gem 'redis-rails'
 
 gem 'sidekiq'
+
+gem 'sidekiq-scheduler'
